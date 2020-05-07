@@ -5,4 +5,8 @@ describe('Hello World TestSuite', () => {
     it('should write "Hello World"', () => {
         logger.info('Hello World');
     });
+
+const { describe, it } =  require('chai');
+
+
 });
