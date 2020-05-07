@@ -1,0 +1,22 @@
+{
+  "name": "testrepository",
+  "version": "1.0.0",
+  "description": "Project my",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzinkevich/testRepository.git"
+  },
+  "author": "Yury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzinkevich/testRepository/issues"
+  },
+  "homepage": "https://github.com/yzinkevich/testRepository#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
